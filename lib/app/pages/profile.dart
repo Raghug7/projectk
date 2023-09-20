@@ -5,7 +5,7 @@ class ProfileWidget extends StatelessWidget {
   final String name;
   final String jobTitle;
   final String experience;
-  final String address;
+  final String address;    
 
   ProfileWidget({
     required this.name,
